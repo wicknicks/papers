@@ -6,7 +6,9 @@ CueNet
 Discovering Context to Prune Large and Complex Search Spaces
 ------------------------------------------------------------
 
-Full Paper [pdf](https://github.com/wicknicks/papers/blob/master/cuenet-context17-final.pdf) at [springer](https://link.springer.com/chapter/10.1007/978-3-319-57837-8_7)
+Full Paper [pdf](https://github.com/wicknicks/papers/blob/master/cuenet-context17-final.pdf). 
+
+[Springer](https://link.springer.com/chapter/10.1007/978-3-319-57837-8_7)
 
 Presented at [Context 17](http://context17.lip6.fr/) 
 
