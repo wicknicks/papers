@@ -1,8 +1,5 @@
 # Papers 
 
-CueNet
-======
-
 Discovering Context to Prune Large and Complex Search Spaces
 ------------------------------------------------------------
 
