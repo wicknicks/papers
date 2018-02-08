@@ -5,7 +5,7 @@ Discovering Context to Prune Large and Complex Search Spaces
 
 Conference paper [pdf](https://github.com/wicknicks/papers/blob/master/cuenet-context17-final.pdf), published at [Springer Link](https://link.springer.com/chapter/10.1007/978-3-319-57837-8_7), presented at [Context 17](http://context17.lip6.fr/).
 
-Journal Version [PDF](https://github.com/wicknicks/papers/blob/master/cuenet-openscience18-final.pdf), published at [OpenScience](https://www.openscience.fr/Discovering-Context-for-Real-World-Events). 
+Journal paper [pdf](https://github.com/wicknicks/papers/blob/master/cuenet-openscience18-final.pdf), published at [OpenScience](https://www.openscience.fr/Discovering-Context-for-Real-World-Events). 
 
 Abstract
 --------
