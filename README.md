@@ -1,5 +1,16 @@
 # Papers 
 
+Scrub: Online TroubleShooting for Large Mission-Critical Applications
+---------------------------------------------------------------------
+
+Conference paper [pdf](https://github.com/wicknicks/papers/blob/master/scrub-eurosys18.pdf), published at [ACM DL](https://dl.acm.org/citation.cfm?id=3190513), presented at [Eurosys 18](http://eurosys2018.org/).
+
+Scrub is a troubleshooting tool for distributed applications that operate under strict SLOs common in production environments. It allows users to formulate queries on events occurring during execution in order to assess the correctness of the application’s operation.
+
+Scrub has been in use for two years at Turn, where developers and users have relied on it to resolve numerous issues in its online advertisement bidding platform. This platform spans thousands of machines across the globe, serving several million bid requests per second, and dispensing many millions of dollars in advertising budgets.
+
+Troubleshooting distributed applications is notoriously hard, and its difficulty is exacerbated by the presence of strict SLOs, which requires the troubleshooting tool to have only minimal impact on the hosts running the application. Furthermore, with large amounts of money at stake, users expect to be able to run frequent diagnostics and demand quick evaluation and remediation of any problems. These constraints have led to a number of design and implementation decisions, that go counter to conventional wisdom. In particular, Scrub supports only a restricted form of joins. Its query execution strategy eschews imposing any overhead on the application hosts. In particular, joins, group-by operations and aggregations are sent to a dedicated centralized facility. In terms of implementation, Scrub avoids the overhead and security concerns of dynamic instrumentation. Finally, at all levels of the system, accuracy is traded for minimal impact on the hosts.
+
 Discovering Context to Prune Large and Complex Search Spaces
 ------------------------------------------------------------
 
